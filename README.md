@@ -11,6 +11,5 @@ Plusieurs modèles de machine learning ont été testés pour évaluer leur perf
 - 🌲 **Random Forest** : Facile à interpréter et performant sur des données variées.
 - 🌳 **Decision Tree** : Rapide mais souvent moins précis.
 - ⚡ **XGBoost** : Modèle puissant et optimisé pour la performance.
-- 🔍 **Grid Search** a été utilisé pour optimiser les hyperparamètres.
 
 Tous les modèles ont donné de bons résultats en termes de précision. Cependant, la sélection finale a été basée sur la taille du modèle ainsi que le temps d'entraînement et de test. **XGBoost** a été retenu comme le meilleur compromis entre performance, rapidité et légèreté.
